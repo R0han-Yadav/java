@@ -62,5 +62,6 @@ public class complexcalculator {
             System.out.println("pls enter again");
             break;
     }
+    sc.close();
     }
 }
